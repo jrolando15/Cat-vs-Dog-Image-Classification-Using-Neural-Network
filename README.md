@@ -18,7 +18,7 @@ To run this project, you need to have Python installed along with the following 
 - Pillow
 - Scikit-Learn
 - Matplotlib
-- 
+  
 You can install the required libraries using the following commands:
 ```bash
 pip install tensorflow pandas pillow scikit-learn matplotlib
